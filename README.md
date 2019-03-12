@@ -9,4 +9,4 @@ This is a selected archive for LaTeX archive.
 4. [typeset](https://github.com/chenshuo/typeset) [CHN]
 5. [LaTeX Template for Class Final Report](https://github.com/iphyer/Selected_LaTeX_Templeate/blob/master/CV-latex-master-master.zip)
 6. [Job CV Template](https://github.com/iphyer/Selected_LaTeX_Templeate/blob/master/Job_CV_template.zip)
-7. [Chinese CV for Programers,clean and no photos](https://github.com/iphyer/Selected_LaTeX_Templeate/blob/master/resume-CHN-clean-noPhotos.zip)
+7. [Chinese CV for Programers,clean and no photos](https://github.com/iphyer/Selected_LaTeX_Templeate/blob/master/resume-CHN-clean-noPhotos.zip)[CHN]
